@@ -1,0 +1,179 @@
+hr{
+    width:90%;
+    border:2px dashed black
+}
+body{
+    color: white
+}
+img{
+	padding:0px;
+	max-height:100%;
+	min-width:100%;
+	}
+footer {
+    background: black;
+    min-height: 50px;
+    
+}
+.navbarmenu {
+    border-bottom: 3px groove black;
+    background-color: black!important
+}
+.menu-acilir-btn {
+    border-radius:5px;
+    float: right;
+    background: black;
+    border:1px groove white;
+    color: white;
+    font-size: 20px;  
+}
+.menu-acilir-btn:focus {
+    background: #0f0f0f;
+    border:2px groove white;
+    color: #white;
+    font-size: 20px; 
+}
+.menu-acilir {
+	text-align: center;
+    height: auto;
+    width: 100%;
+    background: #4d1d6d;
+ 
+}
+.menu-acilir ul {
+    list-style: none;
+}
+.menu-acilir ul li {
+    border-bottom: 1px dashed white;
+    padding-bottom: 10px;
+}
+.menu-acilir ul li h2 {
+    color: white;
+    padding-top: 16px;
+}
+.menu-acilir ul li a {
+    text-decoration: none;
+    color: #f21818;
+    font-size: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+    
+}
+
+
+.bilgiler{
+    border:1px groove black;
+}
+.yazi{
+    margin-left:10px;
+    float: left;
+    padding-top:20px;
+ 	font-family: 'Sunflower', sans-serif;
+}
+
+.baslik
+{
+    height: auto;
+    width: auto;
+    font-family: 'Sunflower', sans-serif;
+
+        
+}
+
+.sagtaraf
+{  
+   
+    height: auto;
+    width: auto;
+    float: left;
+    border: 3px groove #4f4f4f;
+    margin-left: 50px;
+    padding: 10px 10px;
+    margin-top: 8px;
+    margin-bottom: : 20px;
+}
+.fotograf
+{
+float: left;
+}
+.hakkimda
+{
+    height: 100px;
+    width: 201px;
+    float: left;
+    margin-top: 5px;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+}
+.footertasarim
+{
+    
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-top: 1px groove #8F8F8F;
+    bottom: 0px;
+    background: #0f0f0f;
+    padding: 8px
+}
+.copyright{
+    top: 100px;
+    text-align: center;
+    color: white;
+    font-family: 'Sunflower', sans-serif;
+
+}
+.altbilgi
+{   text-align: center;
+   
+    margin-left:100px;
+    color: white;
+    margin-top: 30px;
+    font-family: 'Sunflower', sans-serif;
+}
+ .sosyalmedya{
+    text-align: center;
+    color: white;
+    font-family: 'Sunflower', sans-serif;
+}
+
+
+
+#content {
+	color: #FFF;
+	background-color: #FFF;
+	float: left;
+	height: auto;
+	width: 100%;
+	margin-top: 20px;
+	border-top-color: #D6D6D6;
+	border-right-color: #D6D6D6;
+	border-bottom-color: #D6D6D6;
+	border-left-color: #D6D6D6;
+}
+#icerikler {
+	background-color: #FFF;
+	float: left;
+	height: auto;
+	width: 75%;
+	border-right-width: 4px;
+	border-right-style: groove;
+	border-right-color: #000;
+}
+#konu {
+    margin-left: 15px; margin-right: 15px;
+	text-align:center;
+	height: auto;
+	width: auto;
+	font-family: 'Nunito Sans', sans-serif;
+	color:#000
+}
+.videodiv { 
+	height: auto;
+	width: auto;
+	margin-top: 40px;
+}
+.logo{
+    float: left;
+    margin-top: 60px;
+    margin-left: 20px;
+}

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="tr-TR"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Recep Gül</title>
+	<!-- TemplateEndEditable -->
+	<meta name="description" content="Recep Gül Final Projesi">
+    <meta name="keyword" content="Coklu ortam, web terimleri, recep gul">
+    <meta name="author" content="recep6878@gmail.com ">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="../recepgul-çokluortam/css/bootstrap.css">
+    <link rel="stylesheet" href="../recepgul-çokluortam/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Sunflower:300" rel="stylesheet">
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+</head>
+<body>
+
+<nav class="navbarmenu">
+  <div class="row menurow">
+    <div class="col-xl-11">
+      <div class="yazi "><strong style="font-family: 'Sunflower', sans-serif;">Recep GÜL</strong></div>
+      <div class="yazi " ><strong style="font-family: 'Sunflower', sans-serif;">HACETTEPE ÜNİVERSİTESİ</strong></div>
+      <div class="yazi "><strong style="font-family: 'Sunflower', sans-serif;" >BİLGİSAYAR ÖĞRETİM VE TEKNOLOJİLERİ EĞİTİMİ BÖLÜMÜ</strong></div>
+    </div>
+    <div class="col-xl-1 btndiv pt-3 pr-5 pb-3">
+      <ul style="list-style: none;">
+        <li>
+          <button class="btn menu-acilir-btn"><span class="glyphicon glyphicon-th-list">Menu</span></button>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="menu-acilir" style="display: none;">
+    <ul>
+      <li>
+        <h2><a href="../recepgul-çokluortam/html/webmaster.html">Webmaster</a></h2>
+      </li>
+      <li>
+        <h2><a href="../recepgul-çokluortam/html/gif.html">Gif</a></h2>
+      </li>
+      <li>
+        <h2><a href="../recepgul-çokluortam/html/hdkalite.html">E-Ticaret</a></h2>
+      </li>
+      <li>
+        <h2><a href="../recepgul-çokluortam/html/eticaret.html">HD Kalite</a></h2>
+      </li>
+      <li>
+        <h2><a href="../recepgul-çokluortam/html/homepage.html">Home Page</a></h2>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+
+<div id="content"><!-- TemplateBeginEditable name="icerikler" -->
+  <div id="icerikler">
+    <div id="konu">
+      <center>
+        <h3><b> Başlık </b><br>
+        </h3>
+        <h5><p> Metin </p></h5>
+         <div id="videodiv"><center><iframe width="400" height="315"  src="https://www.youtube.com/embed/E6OZEgP-8k8" ></iframe></center></div>
+      </center>
+    </div>
+  </div>
+<!-- TemplateEndEditable -->
+  </center>
+
+  <div class="sagtaraf">
+				<div class="fotograf"><center><img src="../recepgul-çokluortam/images/recepgul.jpg"></center>
+					<div class="hakkimda">
+							<center>Recep GÜL<br>
+								Bilgisayar Ve Öğretim Teknolojileri Eğitimi</center>
+		
+					</div>
+				</div>
+  </div>
+
+</div>
+<footer>
+ <div class="footertasarim">
+  	<div class="logo">
+    		<img src="../recepgul-çokluortam/images/logo.png"></div>
+  <div class="copyright">
+  	Recep GÜL 2018 ©
+  	
+  </div>
+ 
+  <div class="sosyalmedya">
+    <h6><b>Sosyal Medya Hesaplarım:</b><br>
+      <a href="https://www.facebook.com/recep7168"style="color: white;">Facebook</a><br>
+      <a href="http://twitter.com/recep7168"style="color: white;">Twitter</a><br>
+      <a href="http://instagram.com/recepgul68"style="color: white;">İnstagram</a><br>
+    </h6>
+  </div>
+
+  <div class="altbilgi">
+    <h6>	<b> e-posta:</b> recep6878@gmail.com <b>Telefon: 0545 441 90 51 </b>
+    </h6>
+  </div>
+
+  </div>
+</footer>
+<script src="../recepgul-çokluortam/js/jquery.js"></script>
+<script src="../recepgul-çokluortam/js/bootstrap.min.js"></script>
+<script src="../recepgul-çokluortam/js/main.js"></script>
+</div>
+</body>
+</html>
