@@ -1,6 +1,6 @@
-# recepgul readme dosyası
+# recepgul kisisel readme
 
-Bu proje Hacettepe Üniversitesi, Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü, BTÖ312 Çoklu Ortam Tasarımı Ve Üretimi dersi finali için Recep GÜL tarafından hazırlanmıştır.
+Bu proje Hacettepe Üniversitesi, Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü, BTÖ312 Çoklu Ortam Tasarımı Ve Üretimi dersi finali için Recep GÜL tarafından hazırlanmıştır. Dersin Öğretmeni Doç.Dr.Alev Özkök asistanı Arş.Gör.Nihal Menzi Çetin'dir.
 Projenin dosyalarına erişmek için "recepgul" dizinine girmelisiniz. Projenin yüklendiği internet sitesine erişmek için: http://www.recepgul.me adrsine gidebilirsiniz.
 
 Projenin amacı Web Terminolojise ait 5 adet kavramı öğrencilere anlatmaktır. Bu kavramlar, "Webmaster", "Gif", "E-Ticaret", "HD Kalite" ve "Homepage"dir. Bu kavramların her biri ayrı bir html sayfasında, metin ve videolu olarak anlatılmıştır.
